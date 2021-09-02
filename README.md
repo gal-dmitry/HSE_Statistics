@@ -1,4 +1,4 @@
-# MathStat
+# Statistics
 
 - task_01
 - task_02
